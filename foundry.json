@@ -1,12 +1,12 @@
 {
-    "version": "1.4.5",
+    "version": "1.4.4",
     "architecture": {
         "64bit": {
             "url": "https://assets.foundry.crowdstrike.com/cli/latest/foundry_Windows_x86_64.zip",
             "bin": [
                 "foundry.exe"
             ],
-            "hash": "05d60b11f6e307579c9d5022bf69619bf330c08dd928532ff028d8ac39a3cbd6"
+            "hash": "17bdb500f1c39f7878b5800b4936396d6973fbd25b7f9e46d9aec5c7e33a1f7b"
         }
     }
 }
